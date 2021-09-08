@@ -1,9 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: bug, help wanted
+title: '[BUG]: '
+labels: bug
 assignees: danishyasin33
+projects: tokapi-beta
 
 ---
 
