@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: '[BUG]: '
 labels: bug
 assignees: danishyasin33
-projects: tokapi-beta
+projects: tokapi-beta/1
 
 ---
 
